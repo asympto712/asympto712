@@ -1,6 +1,14 @@
 ## Hi there 👋
 
-I'm currently studying Scientific Computing in Technische Universität Berlin. I am interested in Reinforcement Learning and their application in game development(designing powerful game AI, etc..) and simulation science (emergence of collaborative behavior, modelling of economy using trained agents, etc..) 
+I'm currently studying Scientific Computing in Technische Universität Berlin. My focus is on Reinforcement Learning and AI.
+My other interests are...
+- Game development (I'm a huge fan of cool indie games developed by a very passionate solo-devs. ([Dwarf Fortress](https://www.bay12games.com/dwarves/), [Kenshi](https://lofigames.com/)))
+- Multi-agent systems a.k.a Biology a.k.a Multi-agent systems (My academical kink, although I don't consider myself very academic)
+- Decentralized systems (Not just the benefit they have over the traditional monolithic systems. I think they embody an advanced view on modern social governance and economy)
+- Theory of Mind (Please, somebody build the mathematical theory of consiousness before I die!)
+- Computer Science in general (I should've started earlier...)
+
+(The list above is not ordered on anything)
 
 <!--
 **asympto712/asympto712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
